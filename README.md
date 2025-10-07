@@ -66,7 +66,7 @@ To become a skilled full-stack developer and work with an international team.
 ## 📫 Contact Me
 
 📧 **Email:** rithyngycambo@gmail.com  
-📱 **Phone:** (+855) 093 777 248 
+📱 **Phone:** (+855) 093 777 248      
 📍 **Location:** Phnom Penh, Cambodia  
 💬 **Telegram:** [@N_Rithy](https://t.me/N_Rithy)  
 📞 **WhatsApp:** [Chat with me](https://wa.me/855093777248)
