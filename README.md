@@ -37,7 +37,7 @@ Currently learning Laravel and modern full-stack development.
 
 ---
 
-<h2 style="background-color:#ffeeba; padding:10px; border-radius:6px;">🔥 Featured Projects</h2>
+## 🔥 Featured Projects
 
 ### 📘 [RXInstitute App](https://github.com/rithyngycambo-png/rxinstitute-app)
 A Laravel-based school management system with CRUD operations for students, lecturers, enrollments, and departments.
